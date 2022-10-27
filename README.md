@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Say%20friend%20and%20enter&fontSize=60&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Speak%20friend%20and%20enter&fontSize=65&animation=fadeIn&fontAlignY=37)
 
 ### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-Natalia_Nikitina-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalienikitina/)](https://www.linkedin.com/in/natalienikitina/)
