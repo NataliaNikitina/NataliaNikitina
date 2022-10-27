@@ -13,6 +13,6 @@
 ![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=E64225)
 
 ### Tech Stack
-- 🏛 **Architecture**: MVC, MVVM, MVP, [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture)
+- 🏛 **Architecture**: MVC, MVVM, MVP
 - 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
