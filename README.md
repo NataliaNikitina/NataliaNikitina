@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm <target="_blank">Natalie</a> 
+  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Say%20friend%20and%20enter&fontSize=55&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=52&descAlign=62)
 
