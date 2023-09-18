@@ -3,7 +3,6 @@
 ### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-Natalia_Nikitina-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalienikitina/)](https://www.linkedin.com/in/natalienikitina/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=telegram&logoColor=A084CA)](https://t.me/saflor_soann)
-<a href="mailto:nne2418@gmail.com"><img src="https://img.shields.io/badge/-nne2418@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### Languages
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
