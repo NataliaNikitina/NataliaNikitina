@@ -48,9 +48,6 @@
 
 ### Tech Stack
 🏛 **Architecture**: MVC, MVVM, MVP
-
 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)
-
-⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
