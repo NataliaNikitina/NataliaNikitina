@@ -1,13 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Speak%20friend%20and%20enter&fontSize=60&animation=fadeIn&fontAlignY=37)
 
-### Contacts:
-[![Linkedin Badge](https://img.shields.io/badge/-Natalia_Nikitina-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalienikitina/)](https://www.linkedin.com/in/natalienikitina/)
-<a href="mailto:akunanatata.ios@gmail.com"><img src="https://img.shields.io/badge/-akunanatata.ios@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+### Contacts: [![Linkedin Badge](https://img.shields.io/badge/-Natalia_Nikitina-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalienikitina/)](https://www.linkedin.com/in/natalienikitina/) <a href="mailto:akunanatata.ios@gmail.com"><img src="https://img.shields.io/badge/-akunanatata.ios@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-### Languages
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages: ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+### Tech Stack:
+🏛 **Architecture**: MVC, MVVM, MVP
+
+🛠️ **Instruments**: ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=448EE2) ![Swift Package](https://img.shields.io/badge/-SwiftPackage-05122A?style=flat&logo=HackTheBox&logoColor=FFFFFF)
+
+🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -44,10 +50,3 @@
 <br><br>
 </div>
 <p align="center">
-
-
-### Tech Stack
-🏛 **Architecture**: MVC, MVVM, MVP
-🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
