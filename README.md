@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Speak%20friend%20and%20enter&fontSize=65&animation=fadeIn&fontAlignY=37)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Speak%20friend%20and%20enter&fontSize=60&animation=fadeIn&fontAlignY=37)
 
 ### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-Natalia_Nikitina-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalienikitina/)](https://www.linkedin.com/in/natalienikitina/)
@@ -7,11 +7,6 @@
 ### Languages
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### Instruments
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=448EE2)
-![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=E64225)
-
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -19,15 +14,8 @@
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>Python
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-         </td>
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
